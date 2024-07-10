@@ -23,10 +23,10 @@
   <tr><td colspan=3><b>Example #1 (one point light):</b></td></tr>
   
   <tr>
-    <td><img src="/test_images/test_1/test_1_light.png" width="200px" height="200px"></td>
-    <td><img src="/test_images/test_1/test_nolight.png" width="200px" height="200px"></td>
-    <td><img src="/test_images/test_1/test_1_mask.png" width="200px" height="200px"></td>
-    <td><img src="/test_images/test_1/Test_1.gif" width="200px" height="200px"></td>
+    <td><img src="/test_images/test_1/test_1_light.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_1/test_nolight.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_1/test_1_mask.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_1/Test_1.gif" width="170px" height="170px"></td>
   </tr>
 
   <tr><td colspan=3><b>Example #2 (two point light):</b></td></tr>
