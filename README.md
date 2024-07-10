@@ -17,10 +17,10 @@
     <th>Input 1 (with Light)</th>
     <th>Input 2 (without Light)</th>
     <th>Output (Result)</th>
-    <th>Animation</th>
+    <th>Preview animation</th>
   </tr>
 
-  <tr><td colspan=3><b>Example #1 (one point light):</b></td></tr>
+  <tr><td colspan=4><b>Example #1 (one point light):</b></td></tr>
   
   <tr>
     <td><img src="/test_images/test_1/test_1_light.png" width="170px" height="170px"></td>
@@ -29,36 +29,40 @@
     <td><img src="/test_images/test_1/Test_1.gif" width="170px" height="170px"></td>
   </tr>
 
-  <tr><td colspan=3><b>Example #2 (two point light):</b></td></tr>
+  <tr><td colspan=4><b>Example #2 (two point light):</b></td></tr>
   
   <tr>
-    <td><img src="/Tests/test_2_light.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_nolight.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_2_mask.png" width="150px" height="150px"></td>
+    <td><img src="/test_images/test_2/test_2_light.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_2/test_nolight.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_2/test_2_mask.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_2/Test_2.gif" width="170px" height="170px"></td>
   </tr>
 
-  <tr><td colspan=3><b>Example #3 (two point light and one spot light):</b></td></tr>
+  <tr><td colspan=4><b>Example #3 (two point light and one spot light):</b></td></tr>
   
   <tr>
-    <td><img src="/Tests/test_3_light.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_nolight.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_3_mask.png" width="150px" height="150px"></td>
+    <td><img src="/test_images/test_3/test_3_light.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_3/test_nolight.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_3/test_3_mask.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_3/Test_3_final.gif" width="170px" height="170px"></td>
   </tr>
 
-  <tr><td colspan=3><b>Example #4 (one light, colored meshes and reflactions):</b></td></tr>
+  <tr><td colspan=4><b>Example #4 (one light, colored meshes and reflactions):</b></td></tr>
   
   <tr>
-    <td><img src="/Tests/test_4_light.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_4_nolight.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_4_mask.png" width="150px" height="150px"></td>
+    <td><img src="/test_images/test_4/test_4_light.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_4/test_4_nolight.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_4/test_4_mask.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_4/Test_4.gif" width="170px" height="170px"></td>
   </tr>
 
-  <tr><td colspan=3><b>Example #5:</b></td></tr>
+  <tr><td colspan=4><b>Example #5:</b></td></tr>
   
   <tr>
-    <td><img src="/Tests/test_5_light.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_5_nolight.png" width="150px" height="150px"></td>
-    <td><img src="/Tests/test_5_mask_2.png" width="150px" height="150px"></td>
+    <td><img src="/test_images/test_5/test_5_light.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_5/test_5_nolight.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_5/test_5_mask.png" width="170px" height="170px"></td>
+    <td><img src="/test_images/test_5/Test_5.gif" width="170px" height="170px"></td>
   </tr>
   
   > [!NOTE]
